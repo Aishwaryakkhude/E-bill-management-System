@@ -25,6 +25,7 @@ import com.example.demo.service.UserService;
 
 public class UserController {
 	
+	
 		@Autowired
 		private UserDao dao;
 		@Autowired
