@@ -1,0 +1,31 @@
+.main-content
+{
+    padding-left: 250px;
+    height: 633px;
+}
+.hh1{
+    padding-left: 300px;
+    font-size: 25px;
+    padding-top: 30px;
+}
+.form-group{
+    padding-left: 200px;
+    
+}
+label{
+    font-size: 19px;
+    margin-top: 5px;
+}
+input{
+    font-size:19px;
+    margin-top: 5px;
+    border-radius: 4px;
+}
+button{
+    font-size: 19px;
+   margin: 10px;
+}
+.col-sm-8{
+    margin-left: 200px;
+    margin-top: 30px;
+}

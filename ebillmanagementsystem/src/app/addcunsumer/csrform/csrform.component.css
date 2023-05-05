@@ -1,0 +1,31 @@
+.main-content
+{
+    padding-left: 350px;
+    height: 650px;
+    padding-top: 20px;
+}
+input{
+    width: 400px;
+    height: 30px;
+    font-size: 20px;
+}
+label{
+    font-size: 20px;
+}
+button{
+    font-size: 20px;
+    margin-left: 300px;
+}
+h1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 200px;
+}
+
+.btn1{
+width: 80px;
+}
+.btn2{
+    margin-left: 30px;
+
+}

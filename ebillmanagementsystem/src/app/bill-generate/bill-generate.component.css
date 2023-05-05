@@ -1,0 +1,36 @@
+.main-content
+{
+    padding-left: 250px;
+    height: 633px;
+}
+table{
+    margin-left: 100px;
+    border-radius: 10px;
+    border-color: black;
+    
+}
+th{
+    font-size: 20px;
+    padding-left: 10px;
+}
+input{
+    width: 300px;
+    height: 30px;
+    margin: 10px;
+    border-radius: 4px;
+    font-size: 20px;
+}
+.bt1{
+    margin-left: 100px;
+}
+.bt2{
+    margin-left: 50px;
+}
+button{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+h2{
+    margin-left: 200px;
+    margin-top: 20px;
+}

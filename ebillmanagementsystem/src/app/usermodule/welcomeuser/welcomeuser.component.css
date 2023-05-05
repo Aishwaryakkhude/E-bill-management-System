@@ -1,0 +1,16 @@
+.main-content
+{
+    padding-left: 250px;
+    height: 650px;
+}
+button{
+    background-color: rgb(12, 14, 14);
+    border: none;
+    width: 80px;
+    border-radius: 4px;
+    
+}
+h1{
+    margin-left: 800px;
+margin-top: 20px;
+}
